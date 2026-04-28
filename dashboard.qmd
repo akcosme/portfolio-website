@@ -1,0 +1,45 @@
+---
+title: "Dashboard"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+library(readr)
+library(ggplot2)
+library(dplyr)
+marketing <- read_csv("marketing_data.csv", show_col_types = FALSE)
+```
+
+## Marketing Performance Dashboard
+
+```{r}
+latest <- marketing |> slice_tail(n = 1)
+
+cat(sprintf("Latest Month: %s\n", latest$month))
+cat(sprintf("Visits: %s\n", latest$visits))
+cat(sprintf("Leads: %s\n", latest$leads))
+cat(sprintf("Conversion Rate: %.1f%%\n", latest$conversion_rate))
+```
+
+
+```{r}
+ggplot(marketing, aes(x = month, y = visits, group = 1)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  labs(x = NULL, y = "Visits")
+```
+
+```{r}
+ggplot(marketing, aes(x = month, y = leads)) +
+  geom_col() +
+  labs(x = NULL, y = "Leads")
+```
+
+```{r}
+ggplot(marketing, aes(x = month, y = conversion_rate, group = 1)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  labs(x = NULL, y = "Conversion Rate (%)")
+```

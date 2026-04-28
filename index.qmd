@@ -1,0 +1,54 @@
+---
+title: "Home"
+format: html
+---
+
+::: {.hero}
+# Allen Kian Dela Cruz Cosme
+
+Business Administration student at Cal Poly Pomona with experience in marketing strategy, branding research, business analytics, and equity research.
+
+[Email me](mailto:Cosme@cpp.edu){.btn .btn-primary} 
+[View resume highlights](#resume-highlights){.btn .btn-outline-secondary}
+:::
+
+::: {.hero-image}
+![](allen cosme headshot.png){.profile-photo}
+:::
+
+
+## About Me
+
+I am a Business Administration student focused on international business with hands-on experience in marketing, research, and data-driven storytelling. My recent work includes branding strategy, keyword research, landing page planning, financial analysis, and collaborative presentations.
+
+## Resume Highlights {#resume-highlights}
+
+::: {.metric-card}
+### Education
+**California State Polytechnic University, Pomona**  
+B.S. in Business Administration, International Business  
+Expected December 2026
+:::
+
+::: {.metric-card}
+### Experience Snapshot
+- Marketing & Branding Intern at Cal Poly Pomona Micro-Internship
+- Equity Research Analyst in a stock pitch competition
+- Corporate analysis team project focused on strategy, management, and presentation
+:::
+
+::: {.metric-card}
+### Technical Skills
+Microsoft Excel, Microsoft Word, Canva, ChatGPT, RStudio, and Google Analytics 4
+:::
+
+## What You Will Find on This Site
+
+- **Marketing Projects:** campaign thinking, research, and case-style writeups
+- **Dashboard:** an example marketing performance dashboard built in R
+- **Revealjs Presentation:** a web-based presentation deck
+- **Google Analytics:** a page for analytics takeaways and future GA4 integration
+
+## Career Interests
+
+I am especially interested in marketing, branding, analytics, business strategy, and using data to support better decisions and stronger storytelling.

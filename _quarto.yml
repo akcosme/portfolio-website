@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Allen Cosme"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: marketing-projects.qmd
+        text: Marketing Projects
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: presentation.qmd
+        text: Revealjs Presentation
+      - href: analytics.qmd
+        text: Google Analytics
+    right:
+      - icon: envelope
+        href: mailto:Cosme@cpp.edu
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/akcosme/"
+  page-footer:
+    left: "Built with Quarto and R"
+    right: "Allen Cosme"
+
+format:
+  html:
+    theme: service
+    css: styles.css
+    toc: true
+    code-fold: show
+
+execute:
+  freeze: auto

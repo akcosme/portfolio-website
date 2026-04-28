@@ -1,0 +1,43 @@
+---
+title: "Revealjs Presentation"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Allen Cosme Portfolio
+
+Business student with interests in marketing, branding, analytics, and strategy.
+
+## What I Bring
+
+- Research-driven thinking
+- Clear communication
+- Team collaboration
+- Data-informed recommendations
+
+## Marketing & Branding Experience
+
+- Competitive analysis of digital channels
+- Keyword research and landing page planning
+- Positioning support for therapy services
+
+## Analytical Work
+
+- Equity research and financial storytelling
+- Peer benchmarking and DCF modeling
+- Strategic analysis using SWOT and VRIO
+
+## Technical Toolkit
+
+- Excel
+- Canva
+- RStudio
+- Google Analytics 4
+- ChatGPT
+
+## Next Steps
+
+Turn classroom and internship projects into polished portfolio case studies with visuals, metrics, and recommendations.

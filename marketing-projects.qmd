@@ -1,0 +1,39 @@
+---
+title: "Marketing Projects"
+format: html
+---
+
+## Featured Work
+
+This page is designed like a portfolio blog where each section can become a future case study.
+
+## Project 1: Therapy Services Branding Strategy
+
+**Context:** During a micro-internship, I helped analyze digital marketing channels and identify positioning opportunities for therapy services in the Rancho Cucamonga market.
+
+### My Contributions
+- Competitive review of SEO and digital presence for local therapy providers
+- Keyword research for user intent
+- Landing page planning and user flow thinking
+- Support for targeted branding strategy recommendations
+
+## Project 2: Equity Research Storytelling
+
+Although this was a finance-focused project, it also demonstrates analytical communication. I collaborated with a 4-person team to evaluate a Fortune 500 company, build an investment thesis, and present our findings clearly.
+
+### Skills Demonstrated
+- Research synthesis
+- Benchmarking and structured comparison
+- Data visualization
+- Presentation design and audience-facing storytelling
+
+## Project 3: Corporate Analysis Team Project
+
+This project involved strategic analysis, SWOT, VRIO, and broader management evaluation.
+
+### Why is this relevant to marketing?
+
+- shows that organize complex information
+- able to work collaboratively
+- present business findings professionally
+- connect research to recommendations

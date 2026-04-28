@@ -1,0 +1,34 @@
+---
+title: "Google Analytics"
+format: html
+---
+
+## Google Analytics Certification
+
+here is a link to my Google Analytics certification: [Google Analytics Individual Qualification](https://skillshop.credential.net/ece73b74-6b28-4293-b84f-7d940d4746ed#acc.RQca2JM3)
+
+## What to Showcase Here
+
+- traffic sources
+- user acquisition trends
+- engagement metrics
+- landing page performance
+- conversion events
+
+## Example Talking Points
+
+### Acquisition
+Which channels are bringing in the most valuable traffic?
+
+### Engagement
+Which pages keep users engaged the longest?
+
+### Conversion
+Which landing pages and calls to action generate the most leads?
+
+## Future Upgrade Ideas
+
+- Embed GA4 screenshots
+- Add exported GA4 charts using R
+- Compare campaign performance by source or medium
+- Write short insights under each chart to explain business impact
