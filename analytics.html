@@ -148,7 +148,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#engagement" id="toc-engagement" class="nav-link" data-scroll-target="#engagement">Engagement</a></li>
   <li><a href="#conversion" id="toc-conversion" class="nav-link" data-scroll-target="#conversion">Conversion</a></li>
   </ul></li>
-  <li><a href="#future-upgrade-ideas" id="toc-future-upgrade-ideas" class="nav-link" data-scroll-target="#future-upgrade-ideas">Future Upgrade Ideas</a></li>
   </ul>
 </nav>
     </div>
@@ -192,27 +191,22 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="example-talking-points">Example Talking Points</h2>
 <section id="acquisition" class="level3">
 <h3 class="anchored" data-anchor-id="acquisition">Acquisition</h3>
-<p>Which channels are bringing in the most valuable traffic?</p>
+<p>The most valuable traffic is usually coming from Organic Search, Direct, and Paid Search / Google Ads.</p>
+<p>For an ecommerce site like the Google Merchandise Store, “valuable” should not mean just the most users. The best channels are the ones with strong revenue, conversions, engagement rate, and purchase activity. Organic Search and Direct often perform well because users arriving through those channels tend to have stronger intent or brand familiarity. Paid Search can also be valuable when campaigns are driving product-focused visitors.</p>
 </section>
 <section id="engagement" class="level3">
 <h3 class="anchored" data-anchor-id="engagement">Engagement</h3>
-<p>Which pages keep users engaged the longest?</p>
+<p>The pages that usually keep users engaged the longest are product detail pages, shopping/category pages, and sometimes checkout/cart-related pages.</p>
+<p>In the Google Merchandise Store context, users tend to spend more time on pages where they are comparing products, viewing item details, or deciding whether to purchase. So pages for apparel, branded merchandise, product listings, and individual product pages are likely stronger engagement drivers than generic homepage or landing pages.</p>
 </section>
 <section id="conversion" class="level3">
 <h3 class="anchored" data-anchor-id="conversion">Conversion</h3>
-<p>Which landing pages and calls to action generate the most leads?</p>
-</section>
-</section>
-<section id="future-upgrade-ideas" class="level2">
-<h2 class="anchored" data-anchor-id="future-upgrade-ideas">Future Upgrade Ideas</h2>
-<ul>
-<li>Embed GA4 screenshots</li>
-<li>Add exported GA4 charts using R</li>
-<li>Compare campaign performance by source or medium</li>
-<li>Write short insights under each chart to explain business impact</li>
-</ul>
+<p>For this demo ecommerce site, the strongest “conversion” pages are likely product-focused landing pages and shopping-intent pages, especially pages that lead users toward actions like:</p>
+<p>“Add to cart,” “View item,” “Begin checkout,” and “Purchase.”</p>
+<p>Since the Google Merchandise Store is ecommerce-focused, “leads” are better interpreted as conversion events or purchase-intent actions rather than traditional form-fill leads. The landing pages that introduce users directly to products or product categories are likely to generate the most meaningful conversions because they shorten the path from visit to purchase.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -289,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/akcosme\.github\.io\/portfolio-website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

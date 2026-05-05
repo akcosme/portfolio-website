@@ -25,14 +25,7 @@
     "href": "analytics.html#example-talking-points",
     "title": "Google Analytics",
     "section": "Example Talking Points",
-    "text": "Example Talking Points\n\nAcquisition\nWhich channels are bringing in the most valuable traffic?\n\n\nEngagement\nWhich pages keep users engaged the longest?\n\n\nConversion\nWhich landing pages and calls to action generate the most leads?"
-  },
-  {
-    "objectID": "analytics.html#future-upgrade-ideas",
-    "href": "analytics.html#future-upgrade-ideas",
-    "title": "Google Analytics",
-    "section": "Future Upgrade Ideas",
-    "text": "Future Upgrade Ideas\n\nEmbed GA4 screenshots\nAdd exported GA4 charts using R\nCompare campaign performance by source or medium\nWrite short insights under each chart to explain business impact"
+    "text": "Example Talking Points\n\nAcquisition\nThe most valuable traffic is usually coming from Organic Search, Direct, and Paid Search / Google Ads.\nFor an ecommerce site like the Google Merchandise Store, “valuable” should not mean just the most users. The best channels are the ones with strong revenue, conversions, engagement rate, and purchase activity. Organic Search and Direct often perform well because users arriving through those channels tend to have stronger intent or brand familiarity. Paid Search can also be valuable when campaigns are driving product-focused visitors.\n\n\nEngagement\nThe pages that usually keep users engaged the longest are product detail pages, shopping/category pages, and sometimes checkout/cart-related pages.\nIn the Google Merchandise Store context, users tend to spend more time on pages where they are comparing products, viewing item details, or deciding whether to purchase. So pages for apparel, branded merchandise, product listings, and individual product pages are likely stronger engagement drivers than generic homepage or landing pages.\n\n\nConversion\nFor this demo ecommerce site, the strongest “conversion” pages are likely product-focused landing pages and shopping-intent pages, especially pages that lead users toward actions like:\n“Add to cart,” “View item,” “Begin checkout,” and “Purchase.”\nSince the Google Merchandise Store is ecommerce-focused, “leads” are better interpreted as conversion events or purchase-intent actions rather than traditional form-fill leads. The landing pages that introduce users directly to products or product categories are likely to generate the most meaningful conversions because they shorten the path from visit to purchase."
   },
   {
     "objectID": "index.html",
